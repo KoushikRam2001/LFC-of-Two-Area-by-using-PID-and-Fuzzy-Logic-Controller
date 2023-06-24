@@ -1,4 +1,4 @@
-# Fuzzy-Logic-Control
+# DEVELOPMENT OF PID USING PSO ALGORITHM AND FUZZY LOGIC CONTROLLER: APPLICATION TO LOAD FREQUENCY CONTROL OF TWO AREA INTERCONNECTED SYSTEM
   The Main aim of the Project is to Optimize the parameters of Load Frequency
 Control Using PSO Algorithm and Fuzzy Logic. There are many tuning algorithms
 available for tuning the PID controller. Most of the tuning processes are implemented
