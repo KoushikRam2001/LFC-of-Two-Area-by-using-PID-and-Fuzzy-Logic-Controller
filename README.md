@@ -1,1 +1,1 @@
-# fuzzy-Logic-Control
+# Fuzzy-Logic-Control
